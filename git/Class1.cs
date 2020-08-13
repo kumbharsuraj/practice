@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace git
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //Sample Project1
-
-
-        }
+        public int MyProperty { get; set; }
     }
 }
